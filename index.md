@@ -5,11 +5,11 @@
 ### Undergraduate Projects
 
 
-[GES 386 Practical](/pdf/GES386_Practical.pdf)
+[Pumpkin Growing Suitability in Rowan County, IL](/pdf/GES386_Practical.pdf)
 <img src="images/386Practical.PNG"/>
 
 
-[2015 Land Cover Map of the Chesapeake Bay Area](/sample_page.md)
+[Assessing Land Cover Changes in the Chesapeake Bay Area](/sample_page.md)
 <img src="images/2015LandCover.PNG"/>
 
 
