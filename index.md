@@ -5,15 +5,11 @@
 ### Category Name 1 
 
 [2015 Land Cover Map of the Chesapeake Bay Area](/sample_page)
-<img src="386Practical.PNG?raw=true"/>
+<img src="images/2015LandCover.PNG"/>
 
 ---
 [GES 386 Practical](/pdf/sample_presentation.pdf)
-<img src="GES386_Practical.pdf?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/386Practical.PNG"/>
 
 ---
 
