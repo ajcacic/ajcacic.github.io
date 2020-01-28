@@ -5,7 +5,7 @@
 ### Undergraduate Projects
 
 
-[GES 386 Practical](/pdf/sample_presentation.pdf)
+[GES 386 Practical](/pdf/GES386_Practical.pdf)
 <img src="images/386Practical.PNG"/>
 
 
