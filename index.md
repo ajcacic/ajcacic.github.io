@@ -9,7 +9,7 @@
 <img src="images/386Practical.PNG"/>
 
 
-[2015 Land Cover Map of the Chesapeake Bay Area](/sample_page)
+2015 Land Cover Map of the Chesapeake Bay Area
 <img src="images/2015LandCover.PNG"/>
 
 
