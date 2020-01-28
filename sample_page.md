@@ -1,31 +1,24 @@
-## This can be your internal website page / project page
+## Assessing Land Cover Changes in the Chesapeake Bay Area
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**Project description:** Land Cover maps were created of the Chesapeake Bay area from 1985, 2000, and 2015 in order to see how land use has changed in the region over the last 30 years. These maps were then compared to data on the Chesapeake Bay's health to see if there was any correlation between the Bay's quality and changes in the use of the surrounding land. 
 
-### 1. Suggest hypotheses about the causes of observed phenomena
+### 1. Our Hypothesis and Data
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+Our team hypothesized an increase in urban and agricultural areas surrounding the Chesapeake Bay from 1985 to 2015. We expected to see a corresponding decrease in the health of the bay.
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
+We used Landsat 5, 7, and 8 data from WRS Path 15 Row 33 to create our maps.
 
-### 2. Assess assumptions on which statistical inference will be based
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
+### 2. Results and Analysis
 
-### 3. Support the selection of appropriate statistical tools and techniques
+<img src="images/AllLandCover.PNG"/>
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+Blue = water, dark green = forests, light green = other vegetaion, orange = wetlands, red = urban, white = clouds, pink = cloud shadows. 
 
-### 4. Provide a basis for further data collection through surveys or experiments
+Using confusion matrices, we found that our maps were adequately accurate for the scope of our project. In analyzing the percentage of assigned pixels in each map, we found that net urban area increased slighly. However, agriculture, as a function of other vegetation, appeared to remain the same. Additionally, forests slightly decreased, and wetlands slightly increased. 
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+Regarding the health of the Bay, the Chesapeake Bay Report Card reported a slight increase in the Bay's health from 1985 to 2015. 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### 3. In Conclusion
+
+Urbanization in the Chesapeake Bay area has slightly increased over the last 30 years. However, given that the health of the Bay has also increased, it is hard to draw any conclusions from our analysis. 
