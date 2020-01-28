@@ -8,8 +8,8 @@
 <img src="GES386_Practical.pdf?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[2015 Land Cover Map of Chesapeake Bay Area](/pdf/sample_presentation.pdf)
+<img src="2015LandCover.PNG?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
