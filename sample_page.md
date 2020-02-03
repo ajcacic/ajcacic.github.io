@@ -1,4 +1,6 @@
-## Assessing Land Cover Changes in the Chesapeake Bay Area, full project by Ari Cacic, Leah Staub, Brad Weiss, and Kimberly Brackett
+## Assessing Land Cover Changes in the Chesapeake Bay Area
+
+Project by Ari Cacic, Leah Staub, Brad Weiss, and Kimberly Brackett.
 
 **Project description:** Land Cover maps were created of the Chesapeake Bay area from 1985, 2000, and 2015 in order to see how land use has changed in the region over the last 30 years. These maps were then compared to data on the Chesapeake Bay's health to see if there was any correlation between the Bay's quality and changes in the use of the surrounding land. 
 
