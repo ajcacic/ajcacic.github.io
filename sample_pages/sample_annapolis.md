@@ -1,1 +1,1 @@
-<img src="/pdf/figurespage"/>
+<img src="/pdf/figurespage.pdf"/>
