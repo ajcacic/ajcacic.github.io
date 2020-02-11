@@ -13,7 +13,7 @@ We used Landsat 5, 7, and 8 data from WRS Path 15 Row 33 to create our maps.
 
 ### 2. Results and Analysis
 
-<img src="images/AllLandCover.PNG"/>
+<img src="/images/AllLandCover.PNG"/>
 
 Blue = water, dark green = forests, light green = other vegetaion, orange = wetlands, red = urban, white = clouds, pink = cloud shadows. 
 
