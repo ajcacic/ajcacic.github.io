@@ -11,7 +11,7 @@
 [<img src="images/386Practical.PNG"/>](/pdf/GES386_Practical.pdf)
 
 [Assessing Land Cover Changes in the Chesapeake Bay Area](/sample_pages/sample_chesapeake.md)
-[<img src="images/2015LandCover.PNG"/>](/sample_page.md)
+[<img src="images/2015LandCover.PNG"/>](/pdf/GES 381 Group Project.pdf)
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
