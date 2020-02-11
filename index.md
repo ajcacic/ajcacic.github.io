@@ -4,8 +4,10 @@
 
 ### Undergraduate Projects
 
+[Seasonal Land Cover Changes in Annapolis, MD](/sample_pages/sample_annapolis/md)
+[<img src="images/386Practical.PNG"/>](/pdf/GES386_Practical.pdf)
 
-[Pumpkin Growing Suitability in Rowan County, IL](/pdf/GES386_Practical.pdf)
+[Pumpkin Growing Suitability in Rowan County, IL](/images/GES386_Practical.pdf)
 [<img src="images/386Practical.PNG"/>](/pdf/GES386_Practical.pdf)
 
 [Assessing Land Cover Changes in the Chesapeake Bay Area](/sample_pages/sample_chesapeake.md)
