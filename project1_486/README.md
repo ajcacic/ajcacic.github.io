@@ -1,5 +1,4 @@
-This project is looking at the spatial correlation of haunted spaces, UFO sightings, and bigfoot sightings to cities in Maryland. </p>
+This project is comparing the percentages of UFO sightings to haunted spaces in Maryland counties. Counties with bigfoot sightings are also displayed on the map. </p>
 The data used were created by Tim Renner, who took information from different internet sites and created cooresponding geospatial data. His files can be found <a href="https://data.world/timothyrenner">here</a>. </p>
 I subsetted the data to Maryland, as the files included points all over the United States. </p>
-To see if there is any spatial correlation of these points to cities, I will be creating heatmaps for each category of points and overlaying them to city centers. </p>
-The final outputs will be interactive webmaps that allow the user to click on individual points and see information about the location/sighting. </p>
+I ran the Count Points by Polygon tool on each set of data to get a point count per county. Then, I found what percentage of points were in each county in order to standardize the counts (there were almost 10x more UFO sightings than haunted spaces.) I then displayed the results showing which counties have a higher percentage of UFO sightings or haunted spaces. I also displayed which counties had bigfoot sightings - there were only a few sightings in a few different counties.  </p>
