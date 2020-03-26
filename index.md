@@ -4,8 +4,8 @@
 
 ### Undergraduate Projects
 
-[Tweet Concentrations by US County - COVID-19 vs. Animal Crossing New Horizons](/twitter_map/qgis2web_2020_03_26-16_08_33_371115)
-[<img src="images/Twitter_cover.PNG"/>](/twitter_map/qgis2web_2020_03_26-16_08_33_371115)
+[Tweet Concentrations by US County - COVID-19 vs. Animal Crossing New Horizons](/twitter_map1/qgis2web_2020_03_26-16_56_10_627474)
+[<img src="images/Twitter_cover.PNG"/>](/twitter_map1/qgis2web_2020_03_26-16_56_10_627474)
 
 [Paranormal Activity by Maryland County](/project1_486/qgis2web_2020_03_09-18_41_00_422341)
 [<img src="images/Haunted.PNG"/>](/project1_486/qgis2web_2020_03_09-18_41_00_422341)
