@@ -1,1 +1,1 @@
-
+This map was created using Rtweet to gather geolocated tweets containing "COVID-19" and tweets containing "Animal Crossing." Once 10,000 tweets of each were collected, some analysis was done to determine the concentrations of each tweet by US county. Classification ranges from equal amounts of both tweets, more of a tweet (if 1/2 to 3/4 of total tweets in a county belonged to either category) and much more of a tweet (if more than 3/4 of the total tweets in a county belonged to either category).
