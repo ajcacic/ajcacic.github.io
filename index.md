@@ -4,6 +4,9 @@
 
 ### Undergraduate Projects
 
+[The Impact of Historical Redlining in Baltimore City](/project2_486/redlining)
+[<img src="images/redline.PNG"/>](/project2_486/redlining)
+
 [Tweet Concentrations by US County - COVID-19 vs. Animal Crossing New Horizons](/twitter_map1/qgis2web_2020_03_26-16_56_10_627474)
 [<img src="images/Twitter_cover.PNG"/>](/twitter_map1/qgis2web_2020_03_26-16_56_10_627474)
 
