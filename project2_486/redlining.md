@@ -1,5 +1,5 @@
 ---
-fontsize: 24pt
+fontsize: 12pt
 ---
 
 The goal of this project is to visualize how historic redlining in Baltimore city has resulted in a racially- and socioeconomically-segregated landscape. More specifically, I’ve created outputs that display how these once redlined areas have impacted racial makeup of certain communities and the abundance and locations of public housing projects throughout Baltimore. 
