@@ -1,34 +1,5 @@
 ## Ari Cacic
-This page was created for GES 486 Advanced GIS. 
-
-The front end of this repository is accessible at [ajcacic.github.io](https://ajcacic.github.io/).
-___
-
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
+This page was created for GES 486 Advanced GIS at UMBC. The front end of this repository is accessible at [ajcacic.github.io](https://ajcacic.github.io/).
 ___
 
 References:
