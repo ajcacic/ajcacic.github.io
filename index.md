@@ -3,6 +3,8 @@
 ---
 
 ### Undergraduate Projects
+[Redlining, Rent, and Black Population in Baltimore](/qgis2web_2020_05_11-21_54_33_975134)
+[<img src="/images/proj_3.PNG"/>](/qgis2web_2020_05_11-21_54_33_975134)
 
 [The Impact of Historical Redlining in Baltimore City](/project2_486/redlining.md)
 [<img src="images/redline.PNG"/>](/project2_486/redlining.md)
