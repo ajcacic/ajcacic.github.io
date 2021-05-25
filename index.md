@@ -9,9 +9,6 @@
 [The Impact of Historical Redlining in Baltimore City](/project2_486/redlining.md)
 [<img src="images/redline.PNG"/>](/project2_486/redlining.md)
 
-[Tweet Concentrations by US County - COVID-19 vs. Animal Crossing New Horizons](/twitter_map1/qgis2web_2020_03_26-16_56_10_627474)
-[<img src="images/Twitter_cover.PNG"/>](/twitter_map1/qgis2web_2020_03_26-16_56_10_627474)
-
 [Seasonal Land Cover Changes in Annapolis, MD](/pdf/Figure1.pdf)
 [<img src="images/Annapolis.PNG"/>](pdf/Figure1.pdf)
 
